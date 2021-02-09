@@ -1,0 +1,7 @@
+clone the package - gatsby new themechanger https://github.com/gatsbyjs/gatsby-starter-hello-world
+
+style variables and how they work,import global style sheet
+create 4 pages
+set up simple page navigation
+
+create components folder and themechanger file
